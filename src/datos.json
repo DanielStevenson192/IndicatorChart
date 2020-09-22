@@ -1,0 +1,42 @@
+{
+    "archivo":[
+        "info1": {
+            "año":2014,
+            "tipo":["capital semilla","contrapartida","sin financiación"],
+            "values":[17,17,21]
+        }
+        {
+            "año":2015,
+            "tipo":["capital semilla","contrapartida","sin financiación"],
+            "values":[32,16,18]
+        },
+        {
+            "año":2016,
+            "tipo":["capital semilla","contrapartida","sin financiación"],
+            "values":[23,13,15]
+        {
+            "año":2016,
+            "capital semilla":23,
+            "contrapartida":13,
+            "sin financiación":15
+        },
+        {
+            "año":2017,
+            "capital semilla":42,
+            "contrapartida":17,
+            "sin financiación":1
+        },
+        {
+            "año":2018,
+            "capital semilla":21,
+            "contrapartida":13,
+            "sin financiación":1
+        }
+        {
+            "año":2019,
+            "capital semilla":21,
+            "contrapartida":13,
+            "sin financiación":1
+        }
+    ]
+}

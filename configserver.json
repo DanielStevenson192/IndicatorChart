@@ -1,0 +1,7 @@
+{
+    "//*": {
+        "target": "http://localhost:8180/estudiantes/",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
